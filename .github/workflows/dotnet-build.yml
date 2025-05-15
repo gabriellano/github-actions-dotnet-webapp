@@ -21,4 +21,4 @@ jobs:
           python-version: '3.12.1'
 
       - name: Executar script Python
-        run: python scripts/meu_script.py
+        run: python script.py
